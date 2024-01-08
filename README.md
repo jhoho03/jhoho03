@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi? 👋
+💻 WEB Front-End Developer
+🎓 Soongsil Univ. Computer Science and Engineering
+
 
 <!--
 **jhoho03/jhoho03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
