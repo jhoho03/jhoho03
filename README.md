@@ -1,5 +1,5 @@
 ### Hi? 👋
-💻 WEB Front-End Developer
+💻 Android Developer
 🎓 Soongsil Univ. Computer Science and Engineering
 
 
