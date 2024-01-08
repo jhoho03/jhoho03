@@ -20,14 +20,12 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-<br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+<br/>
 <img src="https://img.shields.io/badge/Visualstudiocode-007ACC?style=flat-square&logo=Visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=Androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Intellijidea-000000?style=flat-square&logo=Intellijidea&logoColor=white">
 
-
-Intellijidea
 
 </div>
 
