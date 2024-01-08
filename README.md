@@ -29,14 +29,6 @@
 
 <br/>
 
-🤷‍♀️ Contact me
--------------
-<a href=https://www.instagram.com/jaeho0326/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jaeho0326/"> </a>
-<a href=mailto:jhoho098@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoho098@gmail.com"> </a>
-
-<br/>
-
-
 🏅 Stats
 -------------
 <div style="margin: ; text-align: left;" "text-align: left;">
@@ -45,3 +37,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoho03&layout=compact&theme=radical">
 </div>
 
+<br/>
+
+🤷‍♀️ Contact me
+-------------
+<a href=https://www.instagram.com/jaeho0326/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jaeho0326/"> </a>
+<a href=mailto:jhoho098@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoho098@gmail.com"> </a>
