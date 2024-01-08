@@ -8,7 +8,7 @@
 -------------
 <div style="margin: ; text-align: left;" "text-align: left;">
 
-#### #📝languages
+#### **#📝languages**
 <img src="https://img.shields.io/badge/C-999999?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
@@ -16,7 +16,7 @@
 
 <br/>
 
-#### #🛠️tools
+#### **#🛠️tools**
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
