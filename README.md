@@ -1,5 +1,5 @@
 👩🏻‍💻 Jhoho03's Github
--------------
+==============
 💻 Android Developer<br/>
 🎓 Soongsil Univ. Computer Science and Engineering
 
