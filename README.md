@@ -3,23 +3,6 @@
 🎓 Soongsil Univ. Computer Science and Engineering
 
 
-<!--
-**jhoho03/jhoho03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhoho03)](https://solved.ac/jhoho03/)
-
-[![jhoho03's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoho03)](https://github.com/jhoho03/github-readme-stats)
 
 <div align= "center">
     </div>
@@ -51,4 +34,6 @@ Here are some ideas to get you started:
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoho03&layout=compact&bg_color=180,1e1515,00000000&title_color=e1ff00&text_color=e1ff00"
            /> </div> 
     </div>
-    
+
+
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhoho03)](https://solved.ac/jhoho03/)
