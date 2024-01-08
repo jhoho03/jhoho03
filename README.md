@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhoho03)](https://solved.ac/jhoho03/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoho03)](https://github.com/jhoho03/github-readme-stats)
+[![jhoho03's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoho03)](https://github.com/jhoho03/github-readme-stats)
