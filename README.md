@@ -4,7 +4,7 @@
 🎓 Soongsil Univ. Computer Science and Engineering
 
 
-🛠️ Tech Stacks
+🌃 Tech Stacks
 -------------
 <div style="margin: ; text-align: left;" "text-align: left;">
 
