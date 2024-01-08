@@ -7,14 +7,29 @@
 🛠️ Tech Stacks
 -------------
 <div style="margin: ; text-align: left;" "text-align: left;">
+
+#### #📝languages
+<img src="https://img.shields.io/badge/C-999999?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-        <br/>
-          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
-          </div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+
+<br/>
+
+#### #🛠️tools
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/Visualstudiocode-007ACC?style=flat-square&logo=Visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=Androidstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Intellijidea-000000?style=flat-square&logo=Intellijidea&logoColor=white">
+
+
+Intellijidea
+
+</div>
 
 🧑‍💻 Contact me
 -------------
